@@ -1,0 +1,17 @@
+{
+  "appId": "com.inngage.ionic.capacitorexample",
+  "appName": "Inngage Ionic Capacitor",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    },
+    "PushNotifications": {
+      "presentationOptions": [
+        "badge",
+        "sound",
+        "alert"
+      ]
+    }
+  }
+}
