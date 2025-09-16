@@ -4,6 +4,15 @@
   "description": "Inngage SDK (Capacitor) - 100% TS, mobile-only",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "author": "Inngage Developer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inngage/inngage-ionic-capacitor"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist",
     "src",
